@@ -23,6 +23,7 @@ public class Voter {
     }
 
     public void printInfo() {
+
         Utility.printInfo(this);
     }
 }

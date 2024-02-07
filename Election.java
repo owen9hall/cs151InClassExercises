@@ -94,7 +94,5 @@ public class Election {
         //presidentialElection.castVote(voterD, "Mary Smith"); //election ended error test
         // Display results
         presidentialElection.displayResults();
-
-
     }
 }

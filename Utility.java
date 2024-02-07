@@ -11,7 +11,6 @@ public class Utility {
 
 
     }
-
     public static void printInfo(Voter voter) {
         System.out.println("Voter name: " + voter.getFullName());
         System.out.println("Has Voted: " + voter.hasVoted);

@@ -6,7 +6,6 @@ public class Candidate {
     String lastName;
     String party;
     final int candidateId;
-
     int votes;
 
     public Candidate(String firstName, String lastName, String party, int candidateId) {
